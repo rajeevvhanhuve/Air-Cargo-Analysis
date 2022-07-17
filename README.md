@@ -1,3 +1,5 @@
+# SQL: Project 2
+
 **DESCRIPTION**
 
 Air Cargo is an aviation company that provides air transportation services for passengers and freight. Air Cargo uses its aircraft to provide different services with the help of partnerships or alliances with other airlines. The company wants to prepare reports on regular passengers, busiest routes, ticket sales details, and other scenarios to improve the ease of travel and booking for customers.
@@ -73,4 +75,4 @@ Condition:
 - If the class is Business and Economy Plus, then complimentary services are given as Yes, else it is No
 20. Write a query to extract the first record of the customer whose last name ends with Scott using a cursor from the customer table.
 
-All the best
+All the best!!
